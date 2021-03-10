@@ -71,5 +71,11 @@ public class UserRepository {
 		return conn;
 	}
 
+
+	public UserVo findByEmailAndPassword() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 	
 }
